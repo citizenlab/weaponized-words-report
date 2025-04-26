@@ -1,13 +1,7 @@
 uuid,event_id,category,type,value,comment,to_ids,date
-d9b79e7a-2229-4911-b968-fb2683224bb3,148,network activity,domain,tengri.ooguy[.]com,command and control server,1,20250314
-34a38e36-75e6-495a-aed7-b006218ab394,148,network activity,domain,anar.gleeze[.]com,backup command and control server,1,20250314
-f4834ca8-7abf-42cb-934c-4a2d7145e3ee,148,network activity,domain,wanar.gleeze[.]com,command and control server,1,20250318
-099312b7-4da3-449e-8aca-560c45da2bc8,148,network activity,domain,www.gheyret[.]com,,1,20250226
-efbbcbf0-e7d5-4091-a158-098805d61a65,148,network activity,domain,www.gheyret[.]net,,1,20250226
-845d4bce-fab3-4c81-bf76-f70e8fcbd339,148,network activity,domain,www.uheyret[.]com,,1,20250226
-be3c062d-6dab-4b55-ad3a-c47acd7efddc,148,network activity,ip-src,95.179.132.219,,0,20250226
-f8ca4441-21ab-4036-b813-4c6ec50601b0,148,network activity,ip-src,149.28.146.29,,0,20250112
-c86b6647-e26f-4d98-b6fd-fc32dcee87a2,148,network activity,ip-src,139.180.130.141.,,0,20250411
-bd96dff1-d62b-4827-bd8a-75424a5cfedc,148,network activity,email-src,harselaamella320@gmail[.]com,sender email address,0,20250314
-3253a946-96cf-495b-aa11-b354f84e117d,148,artifacts dropped,sha256,70af9a31d4470502a39d71ca566d604317a5ecbf9181a64379c9ee761e2f95ab,,1,20250321
-a189fa90-539e-43bd-899c-5d95251b6804,148,artifacts dropped,sha256,94a87dadeaac24bbc26c85d032b86a45cfd131516666e8e5d888f78986d1e993,,1,20250326
+d9b79e7a-2229-4911-b968-fb2683224bb3,148,Network activity,domain|ip,tengri.ooguy.com|149.28.146.29,command and control server,1,20250314
+34a38e36-75e6-495a-aed7-b006218ab394,148,Network activity,domain|ip,anar.gleeze.com|139.180.130.141,backup command and control server,1,20250314
+f4834ca8-7abf-42cb-934c-4a2d7145e3ee,148,Network activity,domain,wanar.gleeze.com,command and control server,1,20250318
+bd96dff1-d62b-4827-bd8a-75424a5cfedc,148,Network activity,email-src,harselaamella320@gmail.com,sender email address,0,20250314
+3253a946-96cf-495b-aa11-b354f84e117d,148,Artifacts dropped,sha256,70af9a31d4470502a39d71ca566d604317a5ecbf9181a64379c9ee761e2f95ab,,1,20250321
+a189fa90-539e-43bd-899c-5d95251b6804,148,Artifacts dropped,sha256,94a87dadeaac24bbc26c85d032b86a45cfd131516666e8e5d888f78986d1e993,,1,20250326
